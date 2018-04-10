@@ -1,6 +1,7 @@
 # poller
 The objective of the project was to allow the users to create and share their own polls in a very user friendly way.It works well on smartphones.(<b>Designed specially for smart phones</b>)
 <h2>Screenshots of the web app</h2>
+
 ![screenshot_2018-04-11-01-17-28_com android chrome](https://user-images.githubusercontent.com/21198781/38580833-aa3c59fc-3d28-11e8-803c-8d0012605390.png)
 ![screenshot_2018-04-11-01-17-43_com android chrome](https://user-images.githubusercontent.com/21198781/38580838-aedb1584-3d28-11e8-996e-fd3930edf4de.png)
 ![screenshot_2018-04-11-01-17-59_com android chrome](https://user-images.githubusercontent.com/21198781/38580843-b2fb9a9e-3d28-11e8-8c42-ae9d87dab65b.png)
