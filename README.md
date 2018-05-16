@@ -7,7 +7,7 @@ The objective of the project was to allow the users to create and share their ow
 <h3>User home Page</h3>
 <img src="https://user-images.githubusercontent.com/21198781/38580838-aedb1584-3d28-11e8-996e-fd3930edf4de.png" width="400" height = "600">
 
-<h3>earch other users profile</h3>
+<h3>Search other users profile</h3>
 <img src="https://user-images.githubusercontent.com/21198781/38580843-b2fb9a9e-3d28-11e8-8c42-ae9d87dab65b.png" width="400" height = "600">
 
 <h3>Menu</h3>
